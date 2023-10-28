@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "German Shepard",
+    "price": 10.99,
+    "imgUrl": "/imgs/german.jpg"
+  },
+    {
+      "id": 2,
+      "name": "Multipack",
+      "price": 1199,
+      "imgUrl": "/imgs/group.jpg"
+      
+    },
+    {
+      "id": 3,
+      "name": "Bernese Mountain Dog",
+      "price": 14000,
+      "imgUrl": "/imgs/bernese.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Pitbull",
+      "price": 1.05,
+      "imgUrl": "/imgs/pitbull.jpg"
+    }
+  ]
